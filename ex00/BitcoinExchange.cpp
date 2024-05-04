@@ -1,6 +1,6 @@
 #include "BitcoinExchange.hpp"
 
-std::string						Bitcoin::_input;
+std::string			Bitcoin::_input;
 std::map<std::string, double>	Bitcoin::_data;
 
 void	Bitcoin::checkArg(int ac, char **av)
