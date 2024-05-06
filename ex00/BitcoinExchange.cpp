@@ -1,5 +1,5 @@
 #include "BitcoinExchange.hpp"
-sdfdsfsd
+
 std::string			Bitcoin::_input;
 std::map<std::string, double>	Bitcoin::_data;
 
